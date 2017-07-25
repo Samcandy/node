@@ -11,5 +11,13 @@
     "serialport": "^4.0.7"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samcandy/node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Samcandy/node/issues"
+  },
+  "homepage": "https://github.com/Samcandy/node#readme"
 }
